@@ -33,3 +33,11 @@ Follows are short description and links to project entries in the IEA Raspberry 
 [Makassed OBK - Project 1 - Smart Traffic Light](https://github.com/abedterjman/Smart-Traffic-Light)
 
 [Makasset OBK - Project 2 - The Virtual Eye](https://github.com/louayghezzawi/The-Virtual-Eye)
+
+[Lycee Ulama Sobhi Mahmasani - Project 1 - Safety Truck](https://github.com/hussein-al-Arab/Safety-Truck-)
+
+[Lycee Ulama Sobhi Mahmasani - Project 2 - Energy Saving](https://github.com/hussein-al-Arab/ENERGY-SAVING-)
+
+[Lycee Ulama Sobhi Mahmasani - Project 3 - Traffic Control](https://github.com/hussein-al-Arab/Traffic-Control-)
+
+[Lycee Ulama Sobhi Mahmasani - Project 4 - Automation Alarm](https://github.com/hussein-al-Arab/Automation-alarm-)
