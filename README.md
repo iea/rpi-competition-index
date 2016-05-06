@@ -22,6 +22,8 @@ Follows are short description and links to project entries in the IEA Raspberry 
 
 [ACS - Grade 8 - All Terrain Life Vest](https://github.com/8acs2016/All-Terrain-Life-Vest)
 
-[Official Secondary School Zahle - Techno Greenhouse](https://github.com/eliasazzam/TGH)
+[Official Secondary School Zahle - Project 1 - Techno Greenhouse](https://github.com/eliasazzam/TGH)
+
+[Official Secondary School Zahle - Project 2 - Techno Parking Guard](https://github.com/eliasazzam/TPG)
 
 [Lycée Laure Mghayzel - Guarded Wayfarer](https://github.com/ritasaad/Guarded-Wayfarer)
