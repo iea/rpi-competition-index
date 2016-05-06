@@ -10,7 +10,6 @@ Follows are short description and links to project entries in the IEA Raspberry 
 
 [Brummana High School - Garbaginator](https://github.com/Christinanakhle/Garbaginator)
 
-
 [Tyre Public Secondary School - Project 1 - Offline Map for Tyre](https://github.com/mariamfakihh/Raspberry-Pi-Offline-Map-for-Tyre)
 
 [Tyre Public Secondary School - Project 2 - Project for the Blind](https://github.com/mariamfakihh/Raspberry-pi-project-for-blinds)
@@ -18,3 +17,7 @@ Follows are short description and links to project entries in the IEA Raspberry 
 [Ghobeiry - Smart Trash Basket](https://github.com/GHobeiry1/smart-trash-basket)
 
 [Antonine International School - MANARA](https://github.com/AssaadFeghali/RaspberyPi)
+
+[ACS - Grade 7 Project](https://github.com/7acs2016/pi-code)
+
+[ACS - Grade 8 - All Terrain Life Vest](https://github.com/8acs2016/All-Terrain-Life-Vest)
