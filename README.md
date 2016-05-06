@@ -28,7 +28,7 @@ Follows are short description and links to project entries in the IEA Raspberry 
 
 [Lycée Laure Mghayzel - Guarded Wayfarer](https://github.com/ritasaad/Guarded-Wayfarer)
 
-[MMaasrani - Tripoli from a dream to reality](Https://github.com/mmaasrani/Tripoli-from-a-dream-to-reality)
+[AZM School - Tripoli from a dream to reality](Https://github.com/mmaasrani/Tripoli-from-a-dream-to-reality)
 
 [Makassed OBK - Project 1 - Smart Traffic Light](https://github.com/abedterjman/Smart-Traffic-Light)
 
