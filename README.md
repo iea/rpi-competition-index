@@ -17,4 +17,4 @@ Follows are short description and links to project entries in the IEA Raspberry 
 
 [Ghobeiry - Smart Trash Basket](https://github.com/GHobeiry1/smart-trash-basket)
 
-[Assaad Feghali - MANARA](https://github.com/AssaadFeghali/RaspberyPi)
+[Antonine International School - MANARA](https://github.com/AssaadFeghali/RaspberyPi)
