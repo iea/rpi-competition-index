@@ -21,3 +21,7 @@ Follows are short description and links to project entries in the IEA Raspberry 
 [ACS - Grade 7 Project](https://github.com/7acs2016/pi-code)
 
 [ACS - Grade 8 - All Terrain Life Vest](https://github.com/8acs2016/All-Terrain-Life-Vest)
+
+[Official Secondary School Zahle](https://github.com/eliasazzam/TGH)
+
+[Lycée Laure Mghayzel - Guarded Wayfarer](https://github.com/ritasaad/Guarded-Wayfarer)
