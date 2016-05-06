@@ -41,3 +41,7 @@ Follows are short description and links to project entries in the IEA Raspberry 
 [Lycee Ulama - Project 3 - Traffic Control](https://github.com/hussein-al-Arab/Traffic-Control-)
 
 [Lycee Ulama - Project 4 - Automation Alarm](https://github.com/hussein-al-Arab/Automation-alarm-)
+
+[Lycee Officiel Hammana - Project 1 - Smart Belt](https://github.com/smartbelt/lycee-officiel-hammana-project)
+
+[Lycee Officiel Hammana - Project 2 - Smart Door](https://github.com/Smart2Door/lycee-officiel-hammana-project2)
