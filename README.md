@@ -27,3 +27,9 @@ Follows are short description and links to project entries in the IEA Raspberry 
 [Official Secondary School Zahle - Project 2 - Techno Parking Guard](https://github.com/eliasazzam/TPG)
 
 [Lycée Laure Mghayzel - Guarded Wayfarer](https://github.com/ritasaad/Guarded-Wayfarer)
+
+[MMaasrani - Tripoli from a dream to reality](Https://github.com/mmaasrani/Tripoli-from-a-dream-to-reality)
+
+[Makassed OBK - Project 1 - Smart Traffic Light](https://github.com/abedterjman/Smart-Traffic-Light)
+
+[Makasset OBK - Project 2 - The Virtual Eye](https://github.com/louayghezzawi/The-Virtual-Eye)
