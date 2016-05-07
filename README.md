@@ -45,3 +45,5 @@ Follows are short description and links to project entries in the IEA Raspberry 
 [Lycee Officiel Hammana - Project 1 - Smart Belt](https://github.com/smartbelt/lycee-officiel-hammana-project)
 
 [Lycee Officiel Hammana - Project 2 - Smart Door](https://github.com/Smart2Door/lycee-officiel-hammana-project2)
+
+[  السلة الذهبية لتصنيف النفايات - مؤسسة الهادي](https://github.com/alhadi-team/-)
