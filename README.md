@@ -49,3 +49,5 @@ Follows are short description and links to project entries in the IEA Raspberry 
 [  السلة الذهبية لتصنيف النفايات - مؤسسة الهادي](https://github.com/alhadi-team/-)
 
 [Hajj Bahaa Eddine Hariri School - Smart Walker](https://github.com/HajjBahaaHaririSchool/samartwalker)
+
+[Saint Joseph School - Pet Paradise](https://github.com/guialexa/Pet-Paradise)
