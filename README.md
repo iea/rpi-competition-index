@@ -55,3 +55,5 @@ Follows are short description and links to project entries in the IEA Raspberry 
 [Lycee Nationale - Home Security System](https://github.com/MhMicroDev/HomeSecuritySystem)
 
 [Almahdi Kfarfila - Smart School](https://github.com/kamelnazar/smart-school)
+
+[Almahdi Baalbek - Rationalization of Electricity and Water Consumption](https://github.com/alisater/REWC)
