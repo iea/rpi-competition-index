@@ -53,3 +53,5 @@ Follows are short description and links to project entries in the IEA Raspberry 
 [Saint Joseph School - Pet Paradise](https://github.com/guialexa/Pet-Paradise)
 
 [Lycee Nationale - Home Security System](https://github.com/MhMicroDev/HomeSecuritySystem)
+
+[Almahdi Kfarfila - Smart School](https://github.com/kamelnazar/smart-school)
